@@ -1,3 +1,3 @@
 # helo
-public domain
+public dsd domain
 and ops
