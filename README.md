@@ -1,3 +1,3 @@
 # helo
-public domain
+public xss domain
 and ops
